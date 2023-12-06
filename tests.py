@@ -1,5 +1,9 @@
 import unittest
 import math
+import circle.py
+import rectangle.py
+import square.py
+import triangle.py
 
 class TestTriangleCase(unittest.TestCase):
     def test_triangle_area(self):
